@@ -1,0 +1,17 @@
+
+# Postman post request for demo.py
+{
+ "num1":10,
+ "num2":5
+}
+
+
+
+#Postman post request for app.py 
+{
+    "Gender":"Male",
+    "Married":"Yes",
+    "Credit_History":1,
+    "LoanAmount":100,
+    "ApplicantIncome":10000
+}
